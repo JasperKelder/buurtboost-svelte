@@ -1,0 +1,13 @@
+<svg version="1.1" id="Laag_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" viewBox="0 0 841.9 595.3" style="enable-background:new 0 0 841.9 595.3" xml:space="preserve">
+  <style>
+    .st1{clip-path:url(#SVGID_00000020377853608600308310000015920539474151499162_);fill:none;stroke:#191f3a;stroke-width:1.4923;stroke-miterlimit:10}
+  </style>
+  <path d="M731.4 559H89.9c-17.7 0-32-14.3-32-32V68.2c0-17.7 14.3-32 32-32h641.5c17.7 0 32 14.3 32 32V527c0 17.6-14.3 32-32 32z" style="fill:#ffde43"/>
+  <defs>
+    <path id="SVGID_1_" d="M731.4 559H89.9c-17.7 0-32-14.3-32-32V68.2c0-17.7 14.3-32 32-32h641.5c17.7 0 32 14.3 32 32V527c0 17.6-14.3 32-32 32z"/>
+  </defs>
+  <clipPath id="SVGID_00000007395529607199131080000013438872660539384719_">
+    <use xlink:href="#SVGID_1_" style="overflow:visible"/>
+  </clipPath>
+  <path style="clip-path:url(#SVGID_00000007395529607199131080000013438872660539384719_);fill:none;stroke:#191f3a;stroke-width:1.4923;stroke-miterlimit:10" d="M32.8 109.8c58.8-22.1 122.4-39.3 184.8-29.5 47.7 7.4 91 29.9 137.1 43.9 53.4 16.2 110.9 20.6 166.4 12.8 7.9-1.1 17.3-3.8 19-11.1 1.3-5.5-2.6-10.9-6.9-14.8-14.7-13.3-36.6-19-56.4-14.7-3 .6-6 1.6-8.3 3.5-8.1 7.2.5 19.8 9.6 25.8 50.3 33.4 118 30.3 178.3 18.4 32.4-6.4 64.9-15.1 92.9-31.7s51.4-42 58.7-72.5"/>
+</svg>
