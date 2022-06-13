@@ -15,7 +15,7 @@
 	<nav>
 		<div class="logo">
 			<a href="/" class:active={$page.url.pathname === '/'}>
-				<img src={logoSource} alt="BuurtBoost Logo" />
+				<img src={logoSource} alt="BuurtBoost Logo" width="260px" height="60px" />
 			</a>
 		</div>
 
@@ -38,10 +38,10 @@
 		</div>
 		<div class="socials">
 			<a href="https://buurtboost.nl/" target="_blank" rel="noopener noreferrer">
-				<img src="svg/instagram.svg" alt="Instagram Logo" width="25px" />
+				<img src="svg/instagram.svg" alt="Instagram Logo" width="25px" height="25px" />
 			</a>
 			<a href="https://buurtboost.nl/" target="_blank" rel="noopener noreferrer">
-				<img src="svg/linkedin.svg" alt="LinkedIn Logo" width="25px" />
+				<img src="svg/linkedin.svg" alt="LinkedIn Logo" width="25px" height="25px" />
 			</a>
 		</div>
 	</nav>

@@ -14,7 +14,7 @@
 			fundament voor een duurzaam en breed gedragen resultaat.
 		</p>
 	</div>
-	<img src="svg/dots.svg" id="dots" alt="Dots" width="600px" />
+	<img src="svg/dots.svg" id="dots" alt="Dots" width="600px" height="424px" />
 </section>
 
 <section class="textimg">

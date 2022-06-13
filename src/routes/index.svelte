@@ -21,8 +21,8 @@
 			<a href="#hero" on:click={popup.toggle}>Download brochure</a>
 		</div>
 	</div>
-	<img src="svg/dots.svg" id="dots" alt="Dots" width="600px" />
-	<img id="woongeluk" src="woongeluk.jpg" alt="" width="500px" />
+	<img src="svg/dots.svg" id="dots" alt="Dots" width="600px" height="424px" />
+	<img id="woongeluk" src="woongeluk.jpg" alt="" width="500px" height="333px" />
 </section>
 
 <section class="triangles">
@@ -70,7 +70,7 @@
 
 <section class="textimg">
 	<div class="grid-container">
-		<img src="omhelzing.jpg" alt="Omhelzing" width="400px" />
+		<img src="omhelzing.jpg" alt="Omhelzing" width="400px" height="221px" />
 		<div>
 			<h2>Samen impact maken!</h2>
 			<p>
@@ -98,11 +98,11 @@
 			</p>
 		</div>
 		<div>
-			<img src="huizen.jpg" alt="Omhelzing" width="400px" />
+			<img src="huizen.jpg" alt="Omhelzing" width="400px" height="267px" />
 		</div>
 
 		<div>
-			<img src="telefoon.jpg" alt="Man met telefoon" width="400px" />
+			<img src="telefoon.jpg" alt="Man met telefoon" width="400px" height="267px" />
 		</div>
 		<div>
 			<h2>BuurtBoost Ontwikkelaanpak: in acht stappen naar woongeluk</h2>
@@ -127,7 +127,7 @@
 			<a href="/contact">Maak een afspraak</a>
 		</div>
 		<div>
-			<img src="optopper.jpg" alt="Omhelzing" width="400px" />
+			<img src="optopper.jpg" alt="Omhelzing" width="400px" height="566px" />
 		</div>
 	</div>
 </section>

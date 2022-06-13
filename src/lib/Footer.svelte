@@ -16,7 +16,7 @@
 	<span>
 		<p>een initiatief van</p>
 		<a href="https://vorm.nl/" target="_blank" rel="noopener noreferrer">
-			<div class="svg" id="vorm" />
+			<img src="svg/vorm.svg" alt="Vorm Logo" id="vorm" width="69px" height="18px" />
 		</a>
 	</span>
 
@@ -83,15 +83,8 @@
 	}
 
 	#vorm {
-		background-image: url(svg/vorm.svg);
-		width: 69px;
-		height: 18px;
 		margin-top: 4px;
 		margin-left: 10px;
-	}
-
-	.svg {
-		background-size: contain;
 	}
 
 	span {

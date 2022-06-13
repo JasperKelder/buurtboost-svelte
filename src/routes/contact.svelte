@@ -11,12 +11,12 @@
 			boosters? Bel of mail BuurtBoost!
 		</p>
 	</div>
-	<img src="svg/dots.svg" id="dots" alt="Dots" width="600px" />
+	<img src="svg/dots.svg" id="dots" alt="Dots" width="600px" height="424px" />
 </section>
 
 <section class="contact">
 	<div class="contact-persoon">
-		<img src="1.jpg" alt="1" width="200px" />
+		<img src="1.jpg" alt="1" width="200px" height="200px" />
 		<h2>Bas de Haan</h2>
 		<p>Commercieel Technisch Manager</p>
 		<div class="action">
@@ -27,7 +27,7 @@
 		</div>
 	</div>
 	<div class="contact-persoon">
-		<img src="2.jpg" alt="1" width="200px" />
+		<img src="2.jpg" alt="2" width="200px" height="200px" />
 		<h2>Mariette Broesterhuizen</h2>
 		<p>Strategisch Manager</p>
 		<div class="action">
@@ -38,7 +38,7 @@
 		</div>
 	</div>
 	<div class="contact-persoon">
-		<img src="3.jpg" alt="1" width="200px" />
+		<img src="3.jpg" alt="3" width="200px" height="200px" />
 		<h2>Mara Kopp</h2>
 		<p>Buurtontwikkelaar</p>
 		<div class="action">
@@ -49,7 +49,7 @@
 		</div>
 	</div>
 	<div class="contact-persoon">
-		<img src="4.jpg" alt="1" width="200px" />
+		<img src="4.jpg" alt="4" width="200px" height="200px" />
 		<h2>Ellen Burke</h2>
 		<p>Marketing & Communicatie</p>
 		<div class="action">
